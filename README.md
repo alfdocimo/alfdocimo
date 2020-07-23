@@ -1,16 +1,39 @@
-### Hi there 👋
+![hello world](/img/hero.png)
 
-<!--
-**alfdocimo/alfdocimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well, hello there! 👋
 
-Here are some ideas to get you started:
+Welcome to my github profile. This is where I upload all my ~~bugs and lame attempts at programming~~ projects and other cool things. Feel free to take a look around! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+🤗 Honesty above everything else
+
+📚 Personal Growth
+
+🎸 Love playing guitar
+
+💭 Very open-minded
+
+## Get in touch
+
+* [🐥 Twitter](https://twitter.com/Alfdocimo)
+* [💻 dev.to](https://dev.to/alfdocimo)
+* [💼 LinkedIn](https://www.linkedin.com/in/alfdocimo/)
+* 📩 alfredonado@gmail.com
+
+## Favorite languages
+
+Technologies I 💜 to work with include but not limited to:
+
+![javascript](https://img.shields.io/badge/-javascript-yellow)
+![react](https://img.shields.io/badge/-react-9cf)
+![node](https://img.shields.io/badge/-node-green)
+![GraphQL](https://img.shields.io/badge/-GraphQL-blueviolet)
+
+<hr>
+
+## Projects
+
+👉 https://kuaas.com
+
+![Kudos as a service](/img/kuaas.gif)
