@@ -1,3 +1,6 @@
+![Alfredo's github stats](https://github-readme-stats.vercel.app/api?username=alfdocimo&show_icons=true&theme=radical)
+
+
 Well, hello there! 👋
 
 Welcome to my github profile. This is where I upload all my ~~bugs and lame attempts at programming~~ projects and other cool things. Feel free to take a look around! 😊
