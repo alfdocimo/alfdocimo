@@ -45,7 +45,7 @@ Pretty self explanatory - send kudos to your friends, colleagues and loved ones!
 
 👉 https://github.com/alfdocimo/kuaas
 
-### WP5 + single-spa micro-front-end
+### WP5 + single-spa micro-front-end (Vue + React + Svelte + Zustand + ApolloClient)
 
 Each package is deployed as an individual module on a CDN a then consumed on the core app
 This is currently a monorepo, but the idea is that each package can be separated into its own repo and consumed from a CDN through the core module. It uses Yarn Workspaces to boot up all modules for local development.
