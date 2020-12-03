@@ -42,6 +42,7 @@ Technologies I 💜 to work with include but not limited to:
 Pretty self explanatory - send kudos to your friends, colleagues and loved ones!
 
 👉 https://kuaas.com
+
 👉 https://github.com/alfdocimo/kuaas
 
 ### WP5 + single-spa micro-front-end
@@ -56,4 +57,5 @@ Modules:
 - https://schwifty-shell.surge.sh/dist/index.html
 
 👉 https://schwifty-mfe.netlify.app/
+
 👉 https://github.com/alfdocimo/mfe-webpack-module-fed 
