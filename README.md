@@ -37,4 +37,21 @@ Technologies I 💜 to work with include but not limited to:
 
 ## Projects
 
+### Kudos as a service
+
+Pretty self explanatory - send kudos to your friends, colleagues and loved ones!
 👉 https://kuaas.com
+👉 https://github.com/alfdocimo/kuaas
+
+### WP5 + single-spa micro-front-end
+
+Each package is deployed as an individual module on a CDN a then consumed on the core app
+
+https://schwifty-search.surge.sh/dist/index.html
+https://schwifty-viewer.surge.sh/dist/index.html
+https://schwifty-shell.surge.sh/dist/index.html
+
+This is currently a monorepo, but the idea is that each package can be separated into its own repo and consumed from a CDN through the core module. It uses Yarn Workspaces to boot up all modules for local development.
+
+👉 https://schwifty-mfe.netlify.app/
+👉 https://github.com/alfdocimo/mfe-webpack-module-fed 
