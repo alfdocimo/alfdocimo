@@ -41,7 +41,7 @@ Technologies I 💜 to work with include but not limited to:
 
 Pretty self explanatory - send kudos to your friends, colleagues and loved ones!
 
-👉 https://kuaas.com
+👉 https://kuaas.vercel.app/
 
 👉 https://github.com/alfdocimo/kuaas
 
